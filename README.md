@@ -1,0 +1,2 @@
+# SumOfTwoNumbersInSortedArrayEqualSpecificNumber
+Algorithm
